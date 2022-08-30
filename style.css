@@ -101,23 +101,27 @@ nav ul li a {
 }
 
 .shape{
+    margin-bottom: 20px;
     height: 400px;
     width: auto;
     margin-left: 110px;
-    margin-top: 40px;
+    /* /* margin-top: 40px; */
+    padding-top: 40px; */
 }
 
 .mypic{
+   
+
     height: 400px;
     width: auto;
     margin-left: 110px;
-    margin-top: 8px;
+ /* margin-top: 40px; */
 }
 
 .images{
 
-width: 40%;
-height: 400px;
+width: 35%;
+height: 350px;
 /* position: absolute; */
 bottom: 0;
 right: 100px;
@@ -211,6 +215,7 @@ button:hover{
 	background: white;
 	width: 100%;
 	padding: 100px 0px;
+
 }
 .title h2{
 	color: black;
@@ -284,6 +289,7 @@ h5{
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
+    margin-top: 24px;
 }
 .contact-me p{
 	color: white;
