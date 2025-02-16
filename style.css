@@ -120,16 +120,17 @@ nav ul li a {
 
 .images{
 
-width: 35%;
-height: 350px;
-/* position: absolute; */
-bottom: 0;
+width: 45%;
+height: 700px;
+position: relative;
+bottom: 40px;
 right: 100px;
 /* background-color: aqua; */
 
 }
 .images img{
     height: 100%;
+    width: auto;
     position: absolute;
     top: 8%;
     left: 70%;
